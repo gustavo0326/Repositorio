@@ -9,6 +9,7 @@
 <?php
   include "style/bootstrap.php";
   include "style/plantilla.php";
+  //hola gustavo, este es el codigo :) que agregue
 ?>
 
 <div id="content">
