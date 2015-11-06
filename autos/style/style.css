@@ -1,0 +1,158 @@
+.inner_copy {border:0;color:#f00;float:left;
+	width:50% !important;margin:-100% 0 0 0;
+	overflow:hidden;line-height:0;
+	padding:0;font-size:11px}
+
+.fleft {float:left}
+.fright  {float:right}
+.fcenter {float:none;margin:0 auto;text-align:center}
+.fclear {clear:both}
+#car {margin:0;font-size:13px;font-family:arial;
+	color:#000}
+
+body {margin:0;font-size:13px;font-family:arial;
+	color:#fff;background-image:url(../images/topbg.gif);
+	background-repeat:repeat-x;background:#102h21}
+
+
+.outer {width:943px;text-align:left;margin:0 auto}
+#outer2 {width:923px;text-align:left;background:#595758;
+	margin:0 auto;border-bottom:5px solid #ffcc00}
+.gap {height:10px;font-size:1px}
+#logo-bg {width:320px;height:220px;float:left;padding-left:10px}
+#business {width:603px;height:220px;float:left;
+	background-image:url(../images/gifauto.gif);background-repeat:no-repeat}
+h1 {font-size:35px;color:#000;font-family:Geneva, Arial, Helvetica, sans-serif;
+	padding-top:50px;letter-spacing:-1px}
+h2 {font-size:16px;font-weight:bold;color:#fff;padding-left:15px;
+	height:35px;line-height:40px;display:inline}
+h3 {font-family:tahoma;color:#fff000;height:25px;line-height:25px;
+	font-weight:bold;font-size:11px;padding-left:6px;padding-right:6px;background:#993300;display:table-cell}
+h4 {font-family:tahoma;color:#fff000;height:25px;line-height:25px;
+	font-weight:bold;font-size:11px;padding-left:6px;padding-right:6px;
+	background:#333}
+.tag {font-size:10px;text-transform:uppercase;color:#000;
+	padding-left:20px;padding-top:10px}
+#bg {width:923px;height:41px;background-image:url(../images/topbg.gif);
+	background-repeat:repeat-x;margin:0 auto}
+#botbg {width:923px;height:41px;background-image:url(../images/topbg.gif);
+	background-repeat:repeat-x;margin:0 auto}
+.toplinks {width:120px;text-align:center;float:left;height:38px;
+	line-height:38px;font-family:tahoma;font-size:11px;text-transform:uppercase;
+	font-weight:bold}
+.toplinks a {color:#000;text-decoration:none}
+.toplinks a:hover {color:#f00;text-decoration:none}
+.sap {width:1px;float:left;height:38px;font-family:tahoma;
+	font-size:11px;line-height:38px;color:#000}
+#left-nav {width:220px;float:left;border-right:2px solid #222}
+#content {width:700px;float:left}
+#content img {width:150px;border:2px solid #ccc;margin:10px;float:right}
+.stxt-bg {background:#433D40}
+.smaltext {font-family:tahoma;font-size:11px;
+	text-align:justify;padding-left:6px;padding-right:6px}
+#left-nav img {width:150px;border:2px solid #ccc;
+	margin:10px 5px 5px 15px;float:left}
+.read-more {font-family:tahoma;color:#e28210;
+	font-weight:bold;font-size:11px;height:25px;
+	line-height:25px;padding-right:6px;float:right}
+
+.read-more a {color:#e28210;text-decoration:underline}
+.read-more a:hover {color:#fff;text-decoration:none}
+
+#showcase {width:200px;text-align:left;margin:10px auto}
+#main {text-align:justify;padding:20px} {text-decoration:none;color:#B8D731}
+#footer {padding:11px}
+.footer {width:120px;text-align:center;float:left;
+	height:38px;line-height:38px;font-family:tahoma;
+	font-size:11px;text-transform:uppercase;font-weight:bold}
+.footer a {color:#888;text-decoration:none}
+.footer a:hover {color:#fff;text-decoration:none}
+a {color:#e28210;text-decoration:underline}
+a:hover {color:#A3C12D;text-decoration:none}
+.clear {clear:both;padding-left:20px;padding-top:10px;text-align:center}
+#footer {line-height:35px;text-align:center}
+div.footer1 {}
+
+#contenedorprincipal #menu #apDiv1 {
+	text-align: center;
+	width: 100%;
+}
+
+
+#contenedorprincipal #menu {
+	height: 50px;
+	width: 100%;
+	background-image: url(../images/topbg.gif);
+	font-family: "Arial Narrow";
+	font-size: 24px;
+	font-weight: normal;
+	text-decoration: none; }
+
+#Menu_1 {
+	position:absolute;
+	left:189px;
+	top:0px;
+	width:75px;
+	height:44px;
+	z-index:1;
+}
+#menu_2 {
+	position:absolute;
+	left:298px;
+	top:0px;
+	width:90px;
+	height:44px;
+	z-index:2;
+}
+#menu_3 {
+	position:absolute;
+	left:421px;
+	top:0px;
+	width:105px;
+	height:44px;
+	z-index:3;
+}
+#menu_4 {
+	position:absolute;
+	left:543px;
+	top:0px;
+	width:130px;
+	height:44px;
+	z-index:4;
+}
+#menu_5 {
+	position:absolute;
+	left:665px;
+	top:0px;
+	width:90px;
+	height:44px;
+	z-index:5;
+}
+#apDiv1 {
+	position:absolute;
+	top:auto;
+	width:100%;
+	height:48px;
+	z-index:6;
+	text-align: center;
+}
+
+table{
+	margin: 0 auto;
+}
+
+table tr label{
+	margin-top:10px;
+}
+ table tr input{
+ 	margin-top:10px;
+}
+
+
+
+.boton{
+	padding:30px;
+}
+
+
+
