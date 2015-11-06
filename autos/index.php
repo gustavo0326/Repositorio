@@ -9,6 +9,7 @@
 <?php
   include "style/bootstrap.php";
   include "style/plantilla.php";
+  hola masmi
 ?>
 
 <div id="content">
